@@ -1,12 +1,18 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
+# Airline Ticket System
+- project: Domestic Airline Ticket Booking System
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  duration: 2020 &mdash; 2021
+  url: "https://github.com/touristintech/ModuleOne/blob/main/FullAirMphasisProjectNitish.zip"
+  description: This web-based application provides a user-friendly platform for booking domestic airline tickets. The backend is developed using Java, ensuring robust and scalable functionality. The frontend, built with Angular, offers an intuitive and responsive interface for users to search, select, and book flights. MySQL is utilized as the database to store and manage user data, flight information, and booking details. This project leverages modern technologies to create a reliable and efficient solution for domestic airline ticket booking. The key features include.
+                <ul class="resume-item-list">
+                <li><s>User Authentication:</s> Secure login and registration functionalities to protect user accounts and data</li>
+                <li><s>Flight Search:</s> Advanced search options to filter flights based on departure/arrival cities, dates, airlines, and other preferences.</li>
+                <li><s>Booking Management:</s> User-friendly interface to view and manage booking history, including cancellations and modifications.</li>
+                <li><s>Admin Dashboard:</s> A comprehensive dashboard for administrators to manage flights, users, and system settings.</li>
+                </ul>
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group

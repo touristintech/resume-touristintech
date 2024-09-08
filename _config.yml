@@ -23,13 +23,13 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a highly motivated software engineer with approximately four years of experience in delivering cutting-edge solutions in cross-functional teams. I am currently employed at Clearwater Analytics, where I am responsible for developing a client management portal. I am seeking a software engineer (Java) role to leverage my expertise and contribute to your organization's goals. My proficiency includes Java, SpringBoot, Mockito, and Maven, and I am familiar with AWS services such as SQS, SNS, S3, and DynamoDB. I am passionate about driving technological innovation to create a tangible impact in the real world. I am a highly motivated and passionate software engineer with a strong track record of delivering cutting-edge solutions in a cross-functional team environment. I am seeking a software engineer(Java) role to leverage my expertise and contribute to your organization's goals.</p>"
+resume_header_intro: "<p>Experienced Software Engineer with a solid foundation in Java development and a proven track record of delivering innovative solutions. I have 4 years of experience working in collaborative teams to build scalable, high-performance applications. My current role at Clearwater Analytics involves designing and implementing a client management portal using industry-standard technologies. I am proficient in core Java concepts, as well as popular frameworks like SpringBoot for efficient development. Additionally, I have a strong understanding of testing methodologies (Mockito) and build tools (Maven). My experience with AWS services allows me to leverage cloud-based infrastructure for scalable and reliable solutions. I am seeking a software engineer(Java) role to leverage my expertise and contribute to your organization's goals.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+#resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
