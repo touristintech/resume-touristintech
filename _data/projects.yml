@@ -3,7 +3,7 @@
 
 # Airline Ticket System
 - project: Domestic Airline Ticket Booking System
-  role: Founder & Primary Developer
+  role: Co-Founder & Backend Developer
   duration: 2020 &mdash; 2021
   url: "https://github.com/touristintech/ModuleOne/blob/main/FullAirMphasisProjectNitish.zip"
   description: This web-based application provides a user-friendly platform for booking domestic airline tickets. The backend is developed using Java, ensuring robust and scalable functionality. The frontend, built with Angular, offers an intuitive and responsive interface for users to search, select, and book flights. MySQL is utilized as the database to store and manage user data, flight information, and booking details. This project leverages modern technologies to create a reliable and efficient solution for domestic airline ticket booking. The key features include.
@@ -16,7 +16,7 @@
 
 # Indian Monuments Image Gallery
 - project: Indian Monuments Image Gallery
-  role: Co-Founder & Organizer
+  role: Founder & Primary Developer
   duration: 2022 &mdash; 2022
   # url: "#"
   description: This web-based application showcases a collection of stunning images of iconic Indian monuments. The backend is developed using Java, ensuring a robust and scalable platform. The frontend, built with Angular, provides a visually appealing and user-friendly interface for exploring the images. MySQL is used as the database to store and manage user data, image information, and comments. Key features include.
