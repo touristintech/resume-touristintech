@@ -18,7 +18,7 @@
 - project: Indian Monuments Image Gallery
   role: Founder & Primary Developer
   duration: 2022 &mdash; 2022
-  # url: "#"
+  url: "https://github.com/touristintech/monuments"
   description: This web-based application showcases a collection of stunning images of iconic Indian monuments. The backend is developed using Java, ensuring a robust and scalable platform. The frontend, built with Angular, provides a visually appealing and user-friendly interface for exploring the images. MySQL is used as the database to store and manage user data, image information, and comments. Key features include.
                 <ul class="resume-item-list">
                 <li><b>Image Gallery:</b> A curated collection of high-quality images of various Indian monuments, categorized for easy navigation.</li>
