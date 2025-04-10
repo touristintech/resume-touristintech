@@ -5,9 +5,12 @@
   duration: Aug, 2024 &mdash; Present
   summary: As a Software Development Engineer (L2), I have successfully transitioned into a mentor role, overseeing the interns and development of new features using Java 8 and SpringBoot 3. Building upon my previous experience in API development and cloud technologies, I am now able to effectively design high-level architectures.
     <ul class="resume-item-list">
-    <li>Demonstrated proficiency in designing high-level architectures that align with business requirements and technical constraints, ensuring the long-term success of projects.</li>
-    <li>Effectively collaborated with stakeholders to gather and analyze requirements, ensuring that developed applications meet the needs of end-users and business objectives.</li>
-    <li>Leveraged my deep understanding of Java 8 and SpringBoot 3 to architect and implement scalable, efficient, and maintainable software solutions.</li>
+    <li>Implemented a publish-subscribe model leveraging microservice architecture by decoupling components through AWS SNS for event broadcasting, enabling different parts of the application to operate independently and asynchronously, and AWS SQS for asynchronous message processing, ensuring reliable and scalable handling of events, which improved system resilience and maintainability.</li>
+    <li>Enhanced the creation and updating of entities on the portal application by adopting the microservice architecture with pub-sub, resulting in a 30% reduction in waiting time for users performing these actions, which significantly improved user experience and led to a 20% increase in the adoption rate of the application.</li>
+    <li>Added JWT (JSON Web Tokens) authentication to authorize access to API endpoints, ensuring secure access to protected resources by verifying the identity of users making requests, and integrated JWT with Swagger-UI to provide a user-friendly interface for generating and validating tokens, simplifying API security management and testing.</li>
+    <li>Optimized the performance of the application's APIs by implementing in-house caching mechanisms as well as Redis cache to store frequently accessed data for faster retrieval and by refining database queries to improve their efficiency, leading to a significant 45% improvement in API response times, which made the Portal application work noticeably faster for users.</li>
+    <li>Migrated the application infrastructure from EC2 instances to AWS EKS (Elastic Kubernetes Service), a managed container orchestration service, and simultaneously removed any unused resources, resulting in a 17% reduction in the overall costs associated with running the application on the AWS cloud platform.</li>
+    <li>Executed a successful upgrade of the application's underlying framework from Spring Boot version 2.x to 3.x, which included critical security patches and improvements, thereby eliminating approximately 90% of known security vulnerabilities that were present in the older version, significantly enhancing the application's security posture.</li>      
     </ul>
 
 # SDE-I @Clearwater Analytics
@@ -19,7 +22,6 @@
     <li>Demonstrated expertise in leveraging AWS services, such as EKS, EC2 for compute resources, S3 for object storage, and DynamoDB for NoSQL databases, to create scalable and reliable cloud-native applications.</li>
     <li>Implemented comprehensive automated testing frameworks (Spring Tests, Mockito) to identify and address defects early in the development process, resulting in a significant 40% improvement in code quality and overall system reliability.</li>
     <li>Proactively implemented strategies to prevent API incidents, such as error handling mechanisms, monitoring tools, and incident response plans. Successfully reduced the occurrence of incidents upto 12%, ensuring uninterrupted service delivery to users.</li>
-    <li>Implemented strategies to optimize API response times, including caching frequently accessed data using an in-house caching mechanism and optimizing database queries. These efforts resulted in around 25% improvement in API response times, significantly enhancing user experience.</li>
     <li>Effectively utilized Kubernetes to manage and automate the deployment, scaling, and operation of containerized applications, improving efficiency and reducing manual effort.</li>
     </ul>
 
