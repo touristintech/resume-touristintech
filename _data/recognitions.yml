@@ -1,10 +1,14 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: SPOT Award 
+  organization: Clearwater Analytics
+  year: 2025
+  summary: Awarded the quarterly SPOT award for contributions made in the projects.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Event Organizer
+  organization: Clearwater Analytics
+  year: 2023
+  summary: Got rewarded for organizing a DevCon event based on AI, led by a few experts in the domain..
+
+- exam: JEE Mains
+  year: 2014
+  summary: I'm a JEE Mains qaulified professional.
